@@ -1,0 +1,21 @@
+.container{
+    background-color:#f6f6f6 ;
+    margin: 20px;
+    padding: 10px;
+}
+.container>div{
+
+}
+#head{
+    margin: 20px auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#button{
+    background-color: rgb(2, 238, 2);
+    padding: 8px;
+    margin: 8px;
+}
+
